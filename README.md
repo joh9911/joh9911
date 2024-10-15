@@ -14,15 +14,11 @@
 #### 안드로이드 개발:
 - Jetpack Compose
 - Android Jetpack (ViewModel, LiveData, Room, Navigation)
-- Coroutines & Flow
+- Coroutines
 - Retrofit & OkHttp
 - Dagger Hilt
-- Glide/Coil
+- MVVM
 
-#### 기타:
-- RESTful API
-- MVVM 아키텍처
-- 버전 관리 (Git)
 
 #### 정보:
 - 🎓 인하대학교 (2018.03 ~ 2025.02)
