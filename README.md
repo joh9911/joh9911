@@ -13,9 +13,9 @@
 
 #### 안드로이드 개발:
 - Jetpack Compose
-- Android Jetpack (ViewModel, LiveData, Room, Navigation)
+- Android Jetpack (ViewModel, Room, Navigation)
 - Coroutines
-- Retrofit & OkHttp
+- Retrofit
 - Dagger Hilt
 - MVVM
 
